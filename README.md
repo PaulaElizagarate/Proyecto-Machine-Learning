@@ -66,7 +66,7 @@ Se ha creado un modelo de predicción preciso y robusto para el precio de los di
 
 ![portada](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.informacion.es%2Fmedio-ambiente%2F2022%2F09%2F02%2Fdescubren-ingentes-cantidades-diamantes-nucleo-74949331.html&psig=AOvVaw3TX-h0aSS2oBDoOmyttRQi&ust=1680430736813000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJCl9rq6iP4CFQAAAAAdAAAAABAJ)
 
-## Contact me
+## Contáctame
 
 Para más información, sugerencias o dudas, por favor, contactad conmigo:
 [Paula Elizagarate](https://www.linkedin.com/in/paulaelizagarate/)
