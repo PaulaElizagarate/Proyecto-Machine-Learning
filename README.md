@@ -27,16 +27,16 @@ El proyecto se ha organizado en tres carpetas principales:
 `Kaggle Competition Train`
 `Kaggle Competition Test`
 `mejor_modelo.pkl`:archivo pickle que contiene el modelo de predicción realizado con Decision Tree.
-`mejor_modelo1.pkl`:archivo pickle que contiene el modelo de predicción realizado con Gradient Boosting
-`mejor_modelo2.pkl`:archivo pickle que contiene el modelo de predicción realizado con Gradient Boosting
+`mejor_modelo1.pkl`:archivo pickle que contiene el modelo de predicción realizado con Random Forest.
+`mejor_modelo2.pkl`:archivo pickle que contiene el modelo de predicción realizado con Gradient Boosting.
 
 
 - 2do procesamiento de datos
 
 En este caso hemos excluido las variables `x`,`y` y `z`, siendo peores modelos que si tuviéramos en cuenta todas. 
 
-`modelo1.pkl`:archivo pickle que contiene el modelo de predicción final.
-`modelo2.pkl`:archivo pickle que contiene el modelo de predicción final.
+`modelo1.pkl`:archivo pickle que contiene el modelo de predicción realizado con Decision Tree.
+`modelo2.pkl`:aarchivo pickle que contiene el modelo de predicción realizado con Random Forest.
 `mejor_modelo2.pkl`:archivo pickle que contiene el modelo de predicción realizado con Gradient Boosting
 
 
@@ -62,6 +62,8 @@ En este caso hemos excluido las variables `x`,`y` y `z`, siendo peores modelos q
 ## Conclusiones
 
 Se ha creado un modelo de predicción preciso y robusto para el precio de los diamantes. El modelo seleccionado, Random Forest, es una técnica de Machine Learning adecuada para este problema en particular. Este modelo podría ser utilizado por joyerías o comerciantes de diamantes para predecir los precios de los diamantes con una alta precisión.
+
+
 
 
 
