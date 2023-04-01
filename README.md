@@ -19,11 +19,35 @@ El proyecto se ha organizado en tres carpetas principales:
 
 ## Archivos
 
-diamonds.csv: conjunto de datos utilizado para el entrenamiento y la validación de los modelos.
-diamonds_predict.csv: conjunto de datos utilizado para realizar las predicciones.
-diamonds_model.pkl: archivo pickle que contiene el modelo de predicción final.
-Descripción del proceso
-Para la creación de los modelos predictivos, se siguió el siguiente proceso:
+`train.csv`: conjunto de datos utilizado para el entrenamiento y la validación de los modelos.
+`test.csv`: conjunto de datos utilizado para realizar las predicciones.
+
+- 1er procesamiento de datos
+
+`Kaggle Competition Train`
+`Kaggle Competition Test`
+`mejor_modelo.pkl`:archivo pickle que contiene el modelo de predicción realizado con Decision Tree.
+`mejor_modelo1.pkl`:archivo pickle que contiene el modelo de predicción realizado con Gradient Boosting
+`mejor_modelo2.pkl`:archivo pickle que contiene el modelo de predicción realizado con Gradient Boosting
+
+
+- 2do procesamiento de datos
+
+En este caso hemos excluido las variables `x`,`y` y `z`, siendo peores modelos que si tuviéramos en cuenta todas. 
+
+`modelo1.pkl`:archivo pickle que contiene el modelo de predicción final.
+`modelo2.pkl`:archivo pickle que contiene el modelo de predicción final.
+`mejor_modelo2.pkl`:archivo pickle que contiene el modelo de predicción realizado con Gradient Boosting
+
+
+- Submissions de la competición de Kaggle
+
+`submission`: predicción submiteada.
+`submission2.csv`: predicción submiteada.
+`submision_03.csv`:predicción submiteada.
+`submision_04.csv`:predicción submiteada.
+`submision_05.csv`:predicción submiteada.
+`submision_06.csv`:predicción submiteada.
 
 ## Análisis exploratorio de los datos.
 
@@ -38,8 +62,6 @@ Para la creación de los modelos predictivos, se siguió el siguiente proceso:
 ## Conclusiones
 
 Se ha creado un modelo de predicción preciso y robusto para el precio de los diamantes. El modelo seleccionado, Random Forest, es una técnica de Machine Learning adecuada para este problema en particular. Este modelo podría ser utilizado por joyerías o comerciantes de diamantes para predecir los precios de los diamantes con una alta precisión.
-
-
 
 
 
