@@ -64,6 +64,6 @@ En este caso hemos excluido las variables `x`,`y` y `z`, siendo peores modelos q
 Se ha creado un modelo de predicción preciso y robusto para el precio de los diamantes. El modelo seleccionado, Random Forest, es una técnica de Machine Learning adecuada para este problema en particular. Este modelo podría ser utilizado por joyerías o comerciantes de diamantes para predecir los precios de los diamantes con una alta precisión.
 
 
-
+![portada](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.informacion.es%2Fmedio-ambiente%2F2022%2F09%2F02%2Fdescubren-ingentes-cantidades-diamantes-nucleo-74949331.html&psig=AOvVaw3TX-h0aSS2oBDoOmyttRQi&ust=1680430736813000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJCl9rq6iP4CFQAAAAAdAAAAABAJ)
 
 
