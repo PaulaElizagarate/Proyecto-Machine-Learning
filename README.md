@@ -17,7 +17,7 @@ El proyecto se ha organizado en tres carpetas principales:
 ## Bibliotecas utilizadas
 
 - `Pandas y Numpy`: para el procesamiento de los datos.
-- `Mapplot y Seaborn`: para la visualización de los datos.
+- `Matplot y Seaborn`: para la visualización de los datos.
 - `Decision Tree`, `Gradient Boost` y `Random Forest`: bibliotecas de Machine Learning utilizadas para crear los modelos predictivos.
 
 ## Archivos
