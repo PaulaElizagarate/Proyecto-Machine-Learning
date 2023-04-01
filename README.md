@@ -1,5 +1,8 @@
 # Modelo de predicción - Precio Diamantes 💎
 
+![](https://github.com/PaulaElizagarate/Proyecto-Visualizaci-n-Tableau/blob/93ac69f0a93117058cefefa20a8c00964efb2c9e/images/Conclusion.png)
+
+
 Este es un proyecto de Machine Learning cuyo objetivo es encontrar el mejor modelo predictivo para el precio de los diamantes, utilizando diferentes combinaciones de datos. Se han empleado varias técnicas de aprendizaje automático, como árboles de decisión, Gradient Boosting y Random Forest.
 
 ## Estructura del proyecto
