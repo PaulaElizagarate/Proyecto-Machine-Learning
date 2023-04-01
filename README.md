@@ -22,7 +22,7 @@ El proyecto se ha organizado en tres carpetas principales:
 - `train.csv`: conjunto de datos utilizado para el entrenamiento y la validación de los modelos.
 - `test.csv`: conjunto de datos utilizado para realizar las predicciones.
 
-- 1er procesamiento de datos
+  ### 1er procesamiento de datos
 
 - `Kaggle Competition Train`
 - `Kaggle Competition Test`
@@ -31,7 +31,7 @@ El proyecto se ha organizado en tres carpetas principales:
 - `mejor_modelo2.pkl`:archivo pickle que contiene el modelo de predicción realizado con Gradient Boosting.
 
 
-- 2do procesamiento de datos
+  ### 2do procesamiento de datos
 
 En este caso hemos excluido las variables `x`,`y` y `z`, siendo peores modelos que si tuviéramos en cuenta todas. 
 
