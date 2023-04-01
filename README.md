@@ -24,30 +24,30 @@ El proyecto se ha organizado en tres carpetas principales:
 
   ### 1er procesamiento de datos
 
-- `Kaggle Competition Train`
-- `Kaggle Competition Test`
-- `mejor_modelo.pkl`:archivo pickle que contiene el modelo de predicción realizado con Decision Tree.
-- `mejor_modelo1.pkl`:archivo pickle que contiene el modelo de predicción realizado con Random Forest.
-- `mejor_modelo2.pkl`:archivo pickle que contiene el modelo de predicción realizado con Gradient Boosting.
+  - `Kaggle Competition Train`
+  - `Kaggle Competition Test`
+  - `mejor_modelo.pkl`:archivo pickle que contiene el modelo de predicción realizado con Decision Tree.
+  - `mejor_modelo1.pkl`:archivo pickle que contiene el modelo de predicción realizado con Random Forest.
+  - `mejor_modelo2.pkl`:archivo pickle que contiene el modelo de predicción realizado con Gradient Boosting.
 
 
   ### 2do procesamiento de datos
 
-En este caso hemos excluido las variables `x`,`y` y `z`, siendo peores modelos que si tuviéramos en cuenta todas. 
+  En este caso hemos excluido las variables `x`,`y` y `z`, siendo peores modelos que si tuviéramos en cuenta todas. 
 
-- `modelo1.pkl`:archivo pickle que contiene el modelo de predicción realizado con Decision Tree.
-- `modelo2.pkl`:aarchivo pickle que contiene el modelo de predicción realizado con Random Forest.
-- `mejor_modelo2.pkl`:archivo pickle que contiene el modelo de predicción realizado con Gradient Boosting
+  - `modelo1.pkl`:archivo pickle que contiene el modelo de predicción realizado con Decision Tree.
+  - `modelo2.pkl`:aarchivo pickle que contiene el modelo de predicción realizado con Random Forest.
+  - `mejor_modelo2.pkl`:archivo pickle que contiene el modelo de predicción realizado con Gradient Boosting
 
 
-- Submissions de la competición de Kaggle
+  ### Submissions de la competición de Kaggle
 
-- `submission`: predicción submiteada.
-- `submission2.csv`: predicción submiteada.
-- `submision_03.csv`:predicción submiteada.
-- `submision_04.csv`:predicción submiteada.
-- `submision_05.csv`:predicción submiteada.
-- `submision_06.csv`:predicción submiteada.
+  - `submission`: predicción submiteada.
+  - `submission2.csv`: predicción submiteada.
+  - `submision_03.csv`:predicción submiteada.
+  - `submision_04.csv`:predicción submiteada.
+  - `submision_05.csv`:predicción submiteada.
+  - `submision_06.csv`:predicción submiteada.
 
 ## Análisis exploratorio de los datos.
 
